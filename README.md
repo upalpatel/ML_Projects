@@ -6,7 +6,7 @@ These projects were created using Jupyter Notebook with Python 3 for academic pu
 
 ### Getting Started
 
-Simply open each notebook ```.ipynb``` file to view the contents.
+Simply open each notebook ```.ipynb``` file to view the contents. All dataset files used can be located in the ```Datasets``` directory.
 
 #### Project 1:
 
